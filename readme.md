@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aathi</h1>
-<h3 align="center">🌱 I’m currently learning **Python Flask and Data Structures and Algothirm in Java** - 👯 I’m looking to collaborate on Web Development Related Projects ** - 🤔 I’m looking for help with Mern ** - 🥅 2021 Goals: To be profficient in MERN Stack :|</h3>
+<h3 align="center">🌱 I’m currently learning **Python Flask and Data Structures and Algothirm in Java** - 👯 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="aathi2002" /> </p>
 
