@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aathi</h1>
-<h3 align="center">🌱I am 20 Year Old Programmer with having high learning skills wiht lots of dream
+<h3 align="center">🌱I am 20 Year Old Programmer with having high learning skills with lots of dream
                      I’m currently learning **Python Flask and Data Structures and Algothirm in Java** - 👯 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="aathi2002" /> </p>
