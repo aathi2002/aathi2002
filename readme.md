@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm aathi</h1>
 <img src="https://ak.picdn.net/shutterstock/videos/1054345952/thumb/1.jpg?ip=x480"  width="1000" 
      height="300">
-<h3 align="center">🌱I am 20 Year Old Programmer with having high learning skills with lots of dream
-                     I’m currently learning **Python Flask and Data Structures and Algothirm in Java** - 👯 
+<h3 align="center">🌱I am 21 Year Old Programmer with having high learning skills with lots of dream
+                     I’m currently learning **Full Stack Web Developmentand Data Structures and Algothirm in Java** - 👯 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aathi2002&label=Profile%20views&color=0e75b6&style=flat" alt="aathi2002" /> </p>
 
